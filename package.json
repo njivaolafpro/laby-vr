@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start:tunnel": "lt --port 5500"
+  },
+  "devDependencies": {
+    "localtunnel": "^2.0.2"
+  }
+}
